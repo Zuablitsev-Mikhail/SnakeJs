@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #282a36;
+}
+canvas{
+    display: block;
+    border: 1px solid gray;
+    margin: 60px auto;
+}
+h2{
+    color: white;
+    text-align: center;
+}
